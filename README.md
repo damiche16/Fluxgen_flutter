@@ -2,7 +2,7 @@
 
 A beautiful, modern Flutter application that transforms your imagination into stunning visuals using AI. Create amazing artwork with just a text description!
 
-![FluxGen Screenshot](assests/app_icon/Fluxgen.png)
+![FluxGen Screenshot](assets/app_icon/Fluxgen.png)
 
 ## 🌟 Features
 
