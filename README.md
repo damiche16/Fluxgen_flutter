@@ -126,6 +126,11 @@ lib/
 - **Responsive Design**: Adapts UI based on screen size
 - **Error Handling**: Graceful fallbacks and user-friendly error messages
 
+## Download
+-**Visit release page to download apk**:[Release Page](https://github.com/YatharthSanghavi/Fluxgen_flutter/releases/tag/v1.0)
+**OR**
+-**Direct Download android apk file**:[Download apk](https://github.com/YatharthSanghavi/Fluxgen_flutter/releases/download/v1.0/app-release.apk)
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
