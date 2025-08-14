@@ -2,13 +2,7 @@
 
 A beautiful, modern Flutter application that transforms your imagination into stunning visuals using AI. Create amazing artwork with just a text description!
 
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev)
-[![Platform](https://img.shields.io/badge/platform-Android%20|%20iOS%20|%20Windows%20|%20macOS%20|%20Linux-blue?style=for-the-badge)](https://flutter.dev/multi-platform)
-
-![AI Image Generator](https://img.shields.io/badge/AI-Image%20Generator-purple?style=for-the-badge&logo=sparkles)
-![Cross Platform](https://img.shields.io/badge/Cross-Platform-success?style=for-the-badge&logo=flutter)
-![Free](https://img.shields.io/badge/Free-To%20Use-green?style=for-the-badge&logo=heart)
+![FluxGen Screenshot](assests/app_icon/Fluxgen.png)
 
 ## 🌟 Features
 
